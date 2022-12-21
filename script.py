@@ -189,11 +189,11 @@ def Craft():
     else:
         print('You are lost in thought')
         Craft()
-#BACKPACK--------------------------------
+#BACKPACK-------------------------------
 #COOKING--------------------------------
 #MATERIALS------------------------------
 #MAP---------DRAWN BY COAL
-#MOOVES-----------------------------------
+#MOOVES---------------------------------
 def Mooove():
     global row
     global place
