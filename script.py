@@ -193,7 +193,7 @@ def Craft():
 #COOKING--------------------------------
 #MATERIALS------------------------------
 #MAP---------DRAWN BY COAL
-#MOOVES----------------------------------
+#MOOVES-----------------------------------
 def Mooove():
     global row
     global place
